@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DoubleAron5
+- 👀 I’m interested in Robotics
+- 🌱 I’m currently learning cs50 intro to computer science
